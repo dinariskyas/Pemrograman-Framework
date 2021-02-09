@@ -9,6 +9,16 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "create-react-app": "^4.0.2",
     "react": "^17.0.1"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dinariskyas/Pemrograman-Framework.git"
+  },
+  "bugs": {
+    "url": "https://github.com/dinariskyas/Pemrograman-Framework/issues"
+  },
+  "homepage": "https://github.com/dinariskyas/Pemrograman-Framework#readme"
 }
